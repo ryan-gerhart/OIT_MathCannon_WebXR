@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Samples/XR Interaction Toolkit/2.6.4/Starter Assets/DemoScene 1.unity
+    guid: 23bb2365b9720491b8321f0ee496ed7b
+  m_configObjects:
+    WebXR.Settings: {fileID: 11400000, guid: 58e7328baf55f459188d8956aad7c312, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: b22c721d850bd4dd48c04ae7c34feba6,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 7b356ac37ba3e4a24b8e19cbb4d28053,
+      type: 2}
