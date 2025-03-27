@@ -14,9 +14,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/_Project/Scenes/MathCannon_v1.unity
     guid: 2f89aa8be296a2e48babdab806be5dff
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Project/Scenes/DemoTest1.unity
     guid: f045da5edbd5c4f58888cd8ecb51f8a0
+  - enabled: 1
+    path: Assets/_Project/Scenes/MathCannon_v2.unity
+    guid: df4810352ff114f6f9308173f87a9c72
   m_configObjects:
     WebXR.Settings: {fileID: 11400000, guid: 58e7328baf55f459188d8956aad7c312, type: 2}
     com.unity.input.settings: {fileID: 11400000, guid: b22c721d850bd4dd48c04ae7c34feba6,
