@@ -8,9 +8,15 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
-  - enabled: 1
+  - enabled: 0
     path: Assets/Samples/XR Interaction Toolkit/2.6.4/Starter Assets/DemoScene 1.unity
     guid: 23bb2365b9720491b8321f0ee496ed7b
+  - enabled: 0
+    path: Assets/_Project/Scenes/MathCannon_v1.unity
+    guid: 2f89aa8be296a2e48babdab806be5dff
+  - enabled: 1
+    path: Assets/_Project/Scenes/DemoTest1.unity
+    guid: f045da5edbd5c4f58888cd8ecb51f8a0
   m_configObjects:
     WebXR.Settings: {fileID: 11400000, guid: 58e7328baf55f459188d8956aad7c312, type: 2}
     com.unity.input.settings: {fileID: 11400000, guid: b22c721d850bd4dd48c04ae7c34feba6,
